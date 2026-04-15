@@ -1,0 +1,10 @@
+# Video files
+video/trailer.mp4
+
+# Local settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
